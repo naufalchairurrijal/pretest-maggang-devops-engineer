@@ -11,6 +11,7 @@
 7. Apa yang anda ketahui tentang Orchestration Container System?
 
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
+1. 
 
 ## Task 1 (Virtualization)
 
